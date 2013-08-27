@@ -1,6 +1,49 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>brekete TV and Radio</title>
+<meta name="GENERATOR" content="Created by BlueVoda Website builder http://www.bluevoda.com">
+<meta name="HOSTING" content="Hosting Provided By VodaHost http://www.vodahost.com">
+<style type="text/css">
+div#container
+{
+   width: 1004px;
+   position: relative;
+   margin-top: 0px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left;
+}
+body
+{
+   text-align: center;
+   margin: 0;
+}
+</style>
+<style type="text/css">
+img { behavior: url("pngfix.htc"); }
+</style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<div id="container">
+<div id="bv_Image1" style="overflow:hidden;position:absolute;left:0px;top:0px;z-index:0" align="left">
+<img src="images/bv_img1.jpg" id="Image1" alt="" align="top" border="0" style="width:1000px;height:104px;"></div>
+<div id="bv_Shape1" style="position:absolute;left:0px;top:104px;width:994px;height:31px;z-index:1;" align="center">
+<a href="http://breketefamily.com"><img src="images/bv01014.gif" id="Shape1" align="top" alt="" title="" border="0" width="994" height="31"></a></div>
+<div id="bv_Image2" style="overflow:hidden;position:absolute;left:234px;top:204px;z-index:2" align="left">
+<img src="images/brekete tv.png" id="Image2" alt="" align="top" border="0" style="width:228px;height:80px;"></div>
+<div id="bv_Text1" style="position:absolute;left:309px;top:179px;width:54px;height:19px;z-index:3;" align="left">
+<font style="font-size:16px" color="#000000" face="Arial"><b>Watch</b></font></div>
+<div id="bv_Image3" style="overflow:hidden;position:absolute;left:548px;top:182px;z-index:4" align="left">
+<img src="images/radio.png" id="Image3" alt="" align="top" border="0" style="width:119px;height:104px;"></div>
+<div id="bv_Text2" style="position:absolute;left:546px;top:179px;width:84px;height:19px;z-index:5;" align="left">
+<font style="font-size:16px" color="#000000" face="Arial"><b>Listen to</b></font></div>
+</div>
+</body>
+</html>
 # Custom for Visual Studio
 *.cs     diff=csharp
 *.sln    merge=union
@@ -20,4 +63,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.htlm diff=http://www.breketefamily.com/app
+*index.htlm diff=http://www.breketefamily.com/app
