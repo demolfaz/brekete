@@ -20,4 +20,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.htlm www.breketefamily.com
+*.htlm diff=http://www.breketefamily.com/app
